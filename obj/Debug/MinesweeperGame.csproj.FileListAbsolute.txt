@@ -1,0 +1,9 @@
+C:\Users\Griff\source\repos\MinesweeperGame\bin\Debug\MinesweeperGame.exe.config
+C:\Users\Griff\source\repos\MinesweeperGame\bin\Debug\MinesweeperGame.exe
+C:\Users\Griff\source\repos\MinesweeperGame\bin\Debug\MinesweeperGame.pdb
+C:\Users\Griff\source\repos\MinesweeperGame\obj\Debug\MinesweeperGame.csprojAssemblyReference.cache
+C:\Users\Griff\source\repos\MinesweeperGame\obj\Debug\MinesweeperGame.Form1.resources
+C:\Users\Griff\source\repos\MinesweeperGame\obj\Debug\MinesweeperGame.Properties.Resources.resources
+C:\Users\Griff\source\repos\MinesweeperGame\obj\Debug\MinesweeperGame.csproj.GenerateResource.cache
+C:\Users\Griff\source\repos\MinesweeperGame\obj\Debug\MinesweeperGame.exe
+C:\Users\Griff\source\repos\MinesweeperGame\obj\Debug\MinesweeperGame.pdb
